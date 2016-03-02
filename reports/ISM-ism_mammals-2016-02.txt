@@ -1,0 +1,129 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 163
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-18 ; Times: 5
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Conepatus leuconotus type:specimen (texas) AND (NOT asnhc)" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "phocidae institutioncode:ISM" ; Times: 2
+	Query: "county:&#34;Johnson&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "institutioncode:ISM" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Conepatus leuconotus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:custer stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "genus:inia" ; Times: 3
+	Query: "urocitellus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Conepatus type:specimen (texas) AND (NOT ASNHC)" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Alces stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "reithrodontomys fulvescens county:&#34;brazos&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 512 download events in this period)
+Total number of records downloaded: 1285
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 22
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Delphinidae" ; Times: 1
+	Query: "county:&#34;Valley&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Eira" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
