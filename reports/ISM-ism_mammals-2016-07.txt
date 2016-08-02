@@ -1,0 +1,149 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 768
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 15
+	Country: Japan ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-14 ; Times: 1
+	Date: 2016-07-19 ; Times: 3
+	Date: 2016-07-18 ; Times: 10
+	Date: 2016-07-08 ; Times: 4
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-28 ; Times: 13
+	Date: 2016-07-29 ; Times: 4
+	Date: 2016-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "zapus missouri" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "gbifdatasetid:07e9980a-a9f6-4a35-9df6-26371459e570" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Zapus county:&#34;harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Clarendon&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "Ammotragus lervia 1" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "genus:Zapus county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Allendale&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "choeronycteris mexicana stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Procyon lotor 1" ; Times: 14
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 188 (out of 1219 download events in this period)
+Total number of records downloaded: 6592
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 64
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 11
+	Date: 2016-07-10 ; Times: 10
+	Date: 2016-07-13 ; Times: 12
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 3
+	Date: 2016-07-14 ; Times: 6
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 10
+	Date: 2016-07-18 ; Times: 10
+	Date: 2016-07-20 ; Times: 5
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 5
+	Date: 2016-07-26 ; Times: 8
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 27
+	Date: 2016-07-22 ; Times: 5
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 13
+	Date: 2016-07-28 ; Times: 13
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 3
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Suncus murinus type:specimen" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "perognathus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 8
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 3
+	Query: "Notiosorex crawfordi type:specimen" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Otospermophilus beecheyi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "eira barbara" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 3
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+
+End of report.
