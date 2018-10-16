@@ -1,0 +1,83 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-09 ; Times: 12
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "catalognumber:683699 institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 3
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "vicugna" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "lagothrix lagothricha" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 390
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Urocitellus columbianus" ; Times: 1
+
+
+End of report.
