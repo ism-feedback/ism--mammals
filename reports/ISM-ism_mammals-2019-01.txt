@@ -1,0 +1,196 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 197
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 44
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 12
+	Date: 2019-01-16 ; Times: 7
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-11 ; Times: 9
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-23 ; Times: 3
+	Date: 2019-01-22 ; Times: 10
+	Date: 2019-01-25 ; Times: 12
+	Date: 2019-01-24 ; Times: 10
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-30 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Garibaldi" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "catalognumber:683693 institutioncode:ISM" ; Times: 2
+	Query: "specificepithet:rattus genus:rattus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:ISM" ; Times: 2
+	Query: "specificepithet:merriami genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "Monachus schauinslandi" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;Wyoming&#34; year &gt;= 1930" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 25
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:palmeri genus:tamias" ; Times: 2
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "specificepithet:striatus genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "velox mohave" ; Times: 1
+	Query: "eptesicus iowa" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "specificepithet:palmeri genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:schauinslandi genus:monachus" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; iowa" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:ISM" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 15
+	Query: "preparations:skeletons basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:guanicoe genus:lama" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:ISM" ; Times: 1
+	Query: "genus:Tenrec" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 5
+	Query: "specificepithet:bulleri genus:tamias" ; Times: 2
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 197 (out of 962 download events in this period)
+Total number of records downloaded: 693
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 175
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 50
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-29 ; Times: 40
+	Date: 2019-01-28 ; Times: 15
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 13
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-30 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rattus genus:rattus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Spain&#34; preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "stateprovince:&#34;Nayarit&#34; recordedby:Phillips" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "specificepithet:schauinslandi genus:monachus" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (NOT pennanti)" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+
+
+End of report.
