@@ -1,0 +1,200 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 690
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 110
+	Country: United Kingdom ; Times: 11
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-01 ; Times: 7
+	Date: 2019-08-15 ; Times: 20
+	Date: 2019-08-03 ; Times: 14
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-28 ; Times: 6
+	Date: 2019-08-07 ; Times: 12
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 7
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-30 ; Times: 11
+	Date: 2019-08-20 ; Times: 11
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:subflavus county:&#34;union&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:microtus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:scapanus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 6
+	Query: "Cavia aperea" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 3
+	Query: "order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 2
+	Query: "genus:scapanus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 2
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "order:cingulata preparations:skeleton" ; Times: 3
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Crandon Park Zoo" ; Times: 3
+	Query: "class:Mammalia fieldnumber:1380" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "genus:martes stateprovince:&#34;British Columbia&#34; (queen charlotte)" ; Times: 1
+	Query: "specificepithet:vison genus:mustela stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "locality:Roaring River State Park" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 12
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1034 download events in this period)
+Total number of records downloaded: 1290
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: United States ; Times: 47
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 11
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 8
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-20 ; Times: 8
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;cotopaxi&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "ochotona princeps" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "vntype:specimen specificepithet:naso genus:Rhynchonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "euderma maculatum" ; Times: 2
+	Query: "myotis volans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
