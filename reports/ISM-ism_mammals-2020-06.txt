@@ -1,0 +1,99 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 27
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-08 ; Times: 14
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-11 ; Times: 10
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-13 ; Times: 1
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-12 ; Times: 6
+	Date: 2020-06-17 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Homo sapiens" ; Times: 18
+	Query: "Dactylomys" ; Times: 2
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "genus:sylvilagus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Hexaprotodon liberiensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 474 download events in this period)
+Total number of records downloaded: 868
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 2
+	Country: Bolivia ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dactylomys" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "umiat microtus" ; Times: 1
+
+
+End of report.
