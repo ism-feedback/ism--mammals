@@ -1,0 +1,132 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 10
+	Date: 2020-05-22 ; Times: 7
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lepus vntype:specimen stateprovince:&#34;Wisconsin&#34; year &lt;= 1990" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "family:viverridae institutioncode:ISM" ; Times: 2
+	Query: "689442" ; Times: 1
+	Query: "613729" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "613885" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ism)" ; Times: 1
+	Query: "family:herpestidae institutioncode:ISM" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:green gulch county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:ISM" ; Times: 1
+	Query: "615182" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "eumops perotis texas" ; Times: 1
+	Query: "686271" ; Times: 1
+	Query: "class:mammalia county:&#34;frontier&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "615181" ; Times: 1
+	Query: "locality:gorge county:&#34;transylvania&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "TAMIAS BULLERI" ; Times: 2
+	Query: "genus:Ondatra stateprovince:&#34;Illinois&#34;" ; Times: 3
+	Query: "Sigmodon ochrognathus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1106 download events in this period)
+Total number of records downloaded: 1407
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 26
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus vntype:specimen stateprovince:&#34;Wisconsin&#34; year &lt;= 1990" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "cervus canadensis" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
