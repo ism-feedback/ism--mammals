@@ -1,0 +1,240 @@
+Report for Institution Code ISM, Resource ism_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 828
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 57
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 19
+	Country: Austria ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 6
+	Date: 2020-10-13 ; Times: 20
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-30 ; Times: 15
+	Date: 2020-10-31 ; Times: 7
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 8
+	Date: 2020-10-02 ; Times: 8
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 4
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ictidomys mexicanus Brewster Texas" ; Times: 1
+	Query: "Ammospermophilus interpres Texas" ; Times: 1
+	Query: "Rusa timorensis" ; Times: 2
+	Query: "specificepithet:palmeri genus:tamias class:mammalia" ; Times: 2
+	Query: "Ovis aries" ; Times: 3
+	Query: "specificepithet:niger genus: Hippotragus" ; Times: 2
+	Query: "Canis lupus Minnesota ISM" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "Canis lupus Minnesota" ; Times: 3
+	Query: "castanops castanops stateprovince:&#34;texas&#34; (Alpine)" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Odocoileus virginianus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "Didelphis virginiana stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 3
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "&#34;Procyon lotor&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "(saville)" ; Times: 1
+	Query: "institutioncode:ism" ; Times: 1
+	Query: "&#34;Procyon lotor&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1972 year &lt;= 2020" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "MISSOURI cryptotis parva" ; Times: 2
+	Query: "*Choeronycteris vntype:specimen (Arizona)" ; Times: 1
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "year &gt;= 1800 year &lt;= 2015 institutioncode:ISM" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1972 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:caffer genus:Syncerus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 2
+	Query: "Homo sapiens" ; Times: 6
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis stateprovince:&#34;Missouri&#34; year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:ISM" ; Times: 1
+	Query: "castanops locality:alpine county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "MAMMALS MISSOURI RODENTIA REITHRODONTOMYS" ; Times: 2
+	Query: "specificepithet:bulleri genus:tamias class:mammalia" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:leo genus:Panthera continent:Africa" ; Times: 2
+	Query: "cratogeomys castanops locality:alpine county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sigmodon ochrognathus county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "castanops stateprovince:&#34;texas&#34; (Alpine)" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:ISM" ; Times: 1
+	Query: "vntype:specimen specificepithet:Grevyi genus:Equus" ; Times: 1
+	Query: "MISSOURI RODENTIA synaptomys cooperi" ; Times: 1
+	Query: "genus:corynorhinus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus county:&#34;alachua&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet: oreotragus genus: Oreotragus" ; Times: 1
+	Query: "genus:hippopotamus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "scientificname:Nyctereutes procyonoides" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:ISM" ; Times: 1
+	Query: "fieldnumber:3237" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 1521 download events in this period)
+Total number of records downloaded: 13750
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 80
+	Country: Mexico ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 4
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-12 ; Times: 8
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 4
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-31 ; Times: 13
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-21 ; Times: 6
+	Date: 2020-10-14 ; Times: 20
+	Date: 2020-10-23 ; Times: 9
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kerr&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mammalia Nayarit México" ; Times: 3
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "specificepithet:Lagopus genus:vulpes" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Artiodactyla class:Mammalia country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "Didelphis virginiana stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 2
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "&#34;Procyon lotor&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:hippotragus" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 1
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "Equus grevyi" ; Times: 2
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:walleri genus:litocranius" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:arundinum genus:redunca" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "vntype:specimen specificepithet:Grevyi genus:Equus" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "specificepithet:onca genus:panthera country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "LAMA GUANICOE" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:oreotragus genus:oreotragus" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34; year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+
+
+End of report.
